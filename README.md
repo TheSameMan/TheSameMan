@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSameMan
 - 👀 I’m interested in AI/ML and Python backend
-- 🌱 I’m currently learning to specialize in [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?)
+- 🌱 I’m currently learning to specialize in [Deep Learning: advanced stream](https://stepik.org/course/101721/promo)
 - 💞️ I’m looking to collaborate on AI/ML or Python backend projects
 - 📫 How to reach me realotoim@mail.ru
 
